@@ -17,7 +17,7 @@
 * Redmine
 * GitLab
 >官网：https://packages.gitlab.com/gitlab
->>是一个用于仓库管理系统的开源项目，使用 Git 作为代码管理工具，并在此基础上搭建起来的 web 服务。
+>>是一个利用 Ruby on Rails 开发的开源应用程序,实现一个自托管的 Git 项目仓库,可通过 Web 界面进行访问公开的或者私人项目。
 
 # 搜索引擎
 * Nutch
