@@ -21,6 +21,10 @@
 >>>GitLab 社区版(CE)和企业版(EE)
 >>>>清华源https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/
 
+# 文件传输
+* FileZilla
+
+
 # 搜索引擎
 * Nutch
 
