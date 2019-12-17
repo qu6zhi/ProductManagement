@@ -18,7 +18,7 @@
 * GitLab
 >官网：https://about.gitlab.com/
 >>是一个利用 Ruby on Rails 开发的开源应用程序,实现一个自托管的 Git 项目仓库,可通过 Web 界面进行访问公开的或者私人项目。
-GitLab 社区版(CE)和企业版(EE)
+>>>GitLab 社区版(CE)和企业版(EE)
 
 # 搜索引擎
 * Nutch
