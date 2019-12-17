@@ -1,5 +1,4 @@
 # ProductManagement
 
 * Pimcore
-* ReviewBoard
-官网https://www.reviewboard.org/
+* ReviewBoard，官网https://www.reviewboard.org/
