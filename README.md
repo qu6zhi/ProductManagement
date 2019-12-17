@@ -21,10 +21,6 @@
 >>>GitLab 社区版(CE)和企业版(EE)
 >>>>清华源https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/
 
-# 文件传输
-* FileZilla
-
-
 # 搜索引擎
 * Nutch
 
@@ -35,3 +31,4 @@
 >网络数据抓包分析工具
 * Burpsuite
 >是用于攻击 Web 应用程序的集成平台，包含了许多工具。
+* FileZilla
