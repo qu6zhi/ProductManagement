@@ -39,3 +39,8 @@ http://downloads.beanbaginc.com/powerpack/
 * FileZilla
 >FTP客户端
 * Xshell
+
+# 监控
+* Zabbix
+* Nagios
+* Cacti
