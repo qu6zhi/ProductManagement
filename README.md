@@ -44,3 +44,4 @@ http://downloads.beanbaginc.com/powerpack/
 * Zabbix
 * Nagios
 * Cacti
+* solarwinds
