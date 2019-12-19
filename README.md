@@ -45,3 +45,6 @@ http://downloads.beanbaginc.com/powerpack/
 * Nagios
 * Cacti
 * Solarwinds
+
+# 升级至 CentOS8
+* wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-8.repo
