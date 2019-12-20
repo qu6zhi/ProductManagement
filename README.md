@@ -48,3 +48,4 @@ http://downloads.beanbaginc.com/powerpack/
 
 # Python Web 项目部署
 http://www.pyinstaller.org/downloads.html
+http://blog.itpub.net/26736162/viewspace-2644904/
