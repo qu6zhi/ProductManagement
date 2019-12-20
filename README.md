@@ -45,3 +45,6 @@ http://downloads.beanbaginc.com/powerpack/
 * Nagios
 * Cacti
 * Solarwinds
+
+# Python Web 项目部署
+http://www.pyinstaller.org/downloads.html
