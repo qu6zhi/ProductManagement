@@ -7,6 +7,8 @@
 >>资产和文档管理
 * Discuz
 * Laravel
+* Sphinx
+> https://github.com/sphinx-doc/sphinx
 
 
 # Coding开发
