@@ -99,6 +99,7 @@ Solr是少数可以阅读丰富内容文档的搜索引擎之一，包括PDF，W
 
 5.机器学习
 索尔与合作 彭博，实施机器学习（(Learning-to-Rank plug-in) 根据来自更复杂查询的分数，使用文档重新排名的概念。机器学习旨在为用户提供即时搜索最相关公司，人员和新闻的更好体验。
+> http://www.sphinxsearch.org/archives/492
 
 # 网络工具
 * IP Scanner
