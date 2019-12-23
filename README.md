@@ -49,6 +49,7 @@ http://downloads.beanbaginc.com/powerpack/
 * Solarwinds
 
 # Python Web 项目部署
+* https://github.com/pyinstaller/pyinstaller
 * http://www.pyinstaller.org/downloads.html
 * http://blog.itpub.net/26736162/viewspace-2644904/
 * https://zhuanlan.zhihu.com/p/65731845
