@@ -35,6 +35,8 @@ http://downloads.beanbaginc.com/powerpack/
 > http://nutch.apache.org/
 * Sphinx
 > https://github.com/sphinx-doc/sphinx
+* Elasticsearch
+* Solr
 
 # 网络工具
 * IP Scanner
