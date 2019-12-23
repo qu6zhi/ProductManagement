@@ -32,6 +32,9 @@ http://downloads.beanbaginc.com/powerpack/
 
 # 搜索引擎
 * Nutch
+> http://nutch.apache.org/
+* Sphinx
+> https://github.com/sphinx-doc/sphinx
 
 # 网络工具
 * IP Scanner
