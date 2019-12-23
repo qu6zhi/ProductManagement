@@ -36,6 +36,7 @@ http://downloads.beanbaginc.com/powerpack/
 * Sphinx
 > https://github.com/sphinx-doc/sphinx
 * Elasticsearch
+
 1.近实时索引
 Elasticsearch能够几乎立即（在不到1秒内）快速索引快速变化的数据。在数据库不断更新的项目中使用它是合适的。
 例如，在优步，Elasticsearch实时汇总动态（激增）定价和供应定位的业务指标。它能够在高峰时间每秒处理超过1,000个查询。
