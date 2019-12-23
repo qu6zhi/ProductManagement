@@ -16,6 +16,8 @@
 >>>Installing Power Pack
 >>>>$ pip install -U ReviewBoardPowerPack
 http://downloads.beanbaginc.com/powerpack/
+* JetBrains 系列软件汉化包
+> https://github.com/pingfangx/jetbrains-in-chinese
 
 
 * Trac
