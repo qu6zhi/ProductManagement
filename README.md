@@ -130,3 +130,4 @@ Solr是少数可以阅读丰富内容文档的搜索引擎之一，包括PDF，W
 * CentOS 配置本地yum源、网络源以及优先级
 > https://blog.csdn.net/weixin_34153893/article/details/92457217
 * CentOS 配置源服务器
+> https://blog.csdn.net/kadwf123/article/details/81635442
