@@ -140,4 +140,5 @@ Solr是少数可以阅读丰富内容文档的搜索引擎之一，包括PDF，W
 * Pentaho
 > https://www.hitachivantara.com/
 * BIRT
+Business Intelligence and Reporting Tools
 > http://www.eclipse.org/birt/
