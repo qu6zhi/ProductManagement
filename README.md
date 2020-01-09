@@ -159,3 +159,4 @@ Solr是少数可以阅读丰富内容文档的搜索引擎之一，包括PDF，W
 
 # 项目管理
 * Jenkins是开源CI&CD软件领导者， 提供超过1000个插件来支持构建、部署、自动化， 满足任何项目的需要。
+> https://jenkins.io/zh/download/
