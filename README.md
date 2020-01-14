@@ -79,6 +79,7 @@ Elasticsearch可以受益于X-Pack商业插件提供的机器学习功能。机�
 Amazon Elasticsearch Service可以快速轻松地进行设置，并在云中运行和扩展Elasticsearch，而无需配置您自己的服务器。
 
 * Solr
+>https://lucene.apache.org/solr/
 
 Solr是另一个基于Apache Lucene的搜索引擎，因此它与Elasticsearch有许多共同的特性。但是，他们在建筑方面仍然不同。
 
