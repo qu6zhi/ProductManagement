@@ -31,6 +31,7 @@ http://downloads.beanbaginc.com/powerpack/
 >>>>清华源https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/
 
 # 搜索引擎
+>http://www.sphinxsearch.org/archives/492
 * Nutch
 > http://nutch.apache.org/
 * Sphinx
