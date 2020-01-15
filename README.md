@@ -165,5 +165,5 @@ Solr是少数可以阅读丰富内容文档的搜索引擎之一，包括PDF，W
 
 # 聊天机器人
 * ChatterBot
->官网https://chatterbot.readthedocs.io/en/stable/
->https://github.com/gunthercox/ChatterBot
+* 官网 https://chatterbot.readthedocs.io/en/stable/
+* https://github.com/gunthercox/ChatterBot
